@@ -6,7 +6,8 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <Router basename="/kguc-album-first">
+<Router basename={process.env.PUBLIC_URL}>
+
       <Header />
       <Routes>
         <Route path="/" element={<MemberList />} />
