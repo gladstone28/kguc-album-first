@@ -34,6 +34,10 @@ function MemberDetail() {
           <Button label="Next" onClick={() => navigate(`/member/${nextMemberId}`)} />
         )}
       </div>
+      
+      <div className="home-button">
+        <Button label="Home" onClick={() => navigate('/')} />
+      </div>
     </div>
   );
 }

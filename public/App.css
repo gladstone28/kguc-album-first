@@ -110,3 +110,25 @@ body {
   justify-content: center;
   gap: 10px;
 }
+
+.member-detail {
+  text-align: center;
+}
+
+.large-profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.navigation-buttons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.home-button {
+  margin-top: 20px;
+}
