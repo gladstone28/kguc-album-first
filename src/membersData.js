@@ -22,7 +22,7 @@ const members = [
     id: 4,
     name: 'Alaina Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/alaina.jpg',
-    description: 'Youth Fellowship Co-ordinator and member of the Technical Team.'
+    description: 'Church:Youth Fellowship Co-ordinator and member of the Technical Team - Career: Engineer.'
   },
 {
     id: 5,
