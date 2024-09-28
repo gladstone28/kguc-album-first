@@ -4,7 +4,7 @@ import './App.css';
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>&copy; 2024 Church Name. All Rights Reserved.</p>
+      <p>&copy; 2024 King's Gate United Church. All Rights Reserved.</p>
     </footer>
   );
 }
