@@ -3,7 +3,7 @@ const members = [
     id: 1,
     name: 'Natalya Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/natalya.jpg',
-    description: 'Church: Foudning member of the original Powerpoint team: Career: Medical Doctor.'
+    description: 'Church: Founding member of the original Powerpoint team: Career: Medical Doctor.'
   },
   {
     id: 2,
