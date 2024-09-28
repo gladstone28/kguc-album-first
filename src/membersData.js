@@ -25,7 +25,14 @@ const members = [
     name: 'Alaina Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/alaina.jpg',
     description: 'Youth Fellowship Co-ordinator and member of the Technical Team.'
+  },
+{
+    id: 5,
+    name: 'Natalya Rose',
+    profilePicture: process.env.PUBLIC_URL + '/images/alaina.jpg',
+    description: 'Medical Doctor and a founding member of the original PwerPoint Team.'
   }
+
 
 
 ];
