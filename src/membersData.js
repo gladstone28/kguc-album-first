@@ -2,10 +2,8 @@ const members = [
   {
     id: 1,
     name: 'Natalya Rose',
-
     profilePicture: process.env.PUBLIC_URL + '/images/natalya.jpg',
-
-    description: 'Choir leader and head of the youth ministry.'
+    description: 'Church: Foudning member of the original Powerpoint team: Career: Medical Doctor.'
   },
   {
     id: 2,
@@ -28,9 +26,9 @@ const members = [
   },
 {
     id: 5,
-    name: 'Natalya Rose',
-    profilePicture: process.env.PUBLIC_URL + '/images/alaina.jpg',
-    description: 'Medical Doctor and a founding member of the original PwerPoint Team.'
+    name: 'Jeaneth Rose',
+    profilePicture: process.env.PUBLIC_URL + '/images/jeaneth.jpg',
+    description: 'Church: Choir Member and Deputy Board Chairman Career: Quality Manager.'
   }
 
 
