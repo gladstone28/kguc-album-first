@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kguc-album-first/static/css/main.e2d6ab02.css",
-    "main.js": "/kguc-album-first/static/js/main.320e02aa.js",
+    "main.js": "/kguc-album-first/static/js/main.2732477e.js",
     "index.html": "/kguc-album-first/index.html",
     "main.e2d6ab02.css.map": "/kguc-album-first/static/css/main.e2d6ab02.css.map",
-    "main.320e02aa.js.map": "/kguc-album-first/static/js/main.320e02aa.js.map"
+    "main.2732477e.js.map": "/kguc-album-first/static/js/main.2732477e.js.map"
   },
   "entrypoints": [
     "static/css/main.e2d6ab02.css",
-    "static/js/main.320e02aa.js"
+    "static/js/main.2732477e.js"
   ]
 }
