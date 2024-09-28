@@ -28,8 +28,15 @@ const members = [
     id: 5,
     name: 'Jeaneth Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/jeaneth.jpg',
-    description: 'Church: Choir Member and Deputy Board Chairman Career: Quality Manager.'
+    description: 'Church: Choir Member and Deputy Board Chairman - Career: Quality Manager.'
+  },
+{
+    id: 6,
+    name: 'Nadia Rose',
+    profilePicture: process.env.PUBLIC_URL + '/images/nadia.jpg',
+    description: 'Church: Senior Member - Career: Medical Doctor.'
   }
+
 
 
 
