@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.member-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.member-item {
+  text-align: center;
+  width: 200px;
+  cursor: pointer;
+}
+
+.profile-pic {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.large-profile-pic {
+  width: 200px;
+  border-radius: 50%;
+}
+
+@media (max-width: 600px) {
+  .member-item {
+    width: 100%;
+  }
+
+  .large-profile-pic {
+    width: 100%;
+  }
+}
