@@ -1,9 +1,9 @@
 const members = [
   {
     id: 1,
-    name: 'John Doe',
+    name: 'Natalya Rose',
 
-    profilePicture: process.env.PUBLIC_URL + '/images/john.jpg',
+    profilePicture: process.env.PUBLIC_URL + '/images/natalya.jpg',
 
     description: 'Choir leader and head of the youth ministry.'
   },
