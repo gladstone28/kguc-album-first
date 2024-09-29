@@ -59,28 +59,7 @@ const members = [
     name: 'Sample Three',
     profilePicture: process.env.PUBLIC_URL + '/images/sample3.jpg',
     description: 'Church: This is a sample - Career: Sample Profession.'
-  },
-{
-    id: 11,
-    name: 'Mikhail Reid',
-    profilePicture: process.env.PUBLIC_URL + '/images/mikhail.jpg',
-    description: 'Church: Praise Team Member - Career: Chemical Engineer.'
-  },
-{
-    id: 12,
-    name: 'Glodine Anderson',
-    profilePicture: process.env.PUBLIC_URL + '/images/glodine.jpg',
-    description: 'Church: Praise Team Member - Career: Pharmacist.'
-  },
-{
-    id: 13,
-    name: 'Jahmai Paul',
-    profilePicture: process.env.PUBLIC_URL + '/images/jahmai.jpg',
-    description: 'Church: Member of Praise team - Career: Entrepreneur.'
   }
-
-
-
 
 
 
