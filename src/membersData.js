@@ -39,7 +39,7 @@ const members = [
 {
     id: 7,
     name: 'John Brown',
-    profilePicture: process.env.PUBLIC_URL + '/images/jonn.jpg',
+    profilePicture: process.env.PUBLIC_URL + '/images/john.jpg',
     description: 'Church: This is a sample - Career: Sample Profession.'
   }
 
