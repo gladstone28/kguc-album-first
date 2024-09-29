@@ -41,7 +41,28 @@ const members = [
     name: 'John Brown',
     profilePicture: process.env.PUBLIC_URL + '/images/john.jpg',
     description: 'Church: This is a sample - Career: Sample Profession.'
+  },
+{
+    id: 8,
+    name: 'Sample One',
+    profilePicture: process.env.PUBLIC_URL + '/images/sample1.jpg',
+    description: 'Church: This is a sample - Career: Sample Profession.'
+  },
+{
+    id: 9,
+    name: 'Sample Two',
+    profilePicture: process.env.PUBLIC_URL + '/images/sample2.jpg',
+    description: 'Church: This is a sample - Career: Sample Profession.'
+  },
+{
+    id: 10,
+    name: 'Sample Three',
+    profilePicture: process.env.PUBLIC_URL + '/images/sample3.jpg',
+    description: 'Church: This is a sample - Career: Sample Profession.'
   }
+
+
+
 
 
 ];
