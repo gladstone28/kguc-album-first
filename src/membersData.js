@@ -35,9 +35,13 @@ const members = [
     name: 'Nadia Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/nadia.jpg',
     description: 'Church: Senior Member - Career: Medical Doctor.'
+  },
+{
+    id: 7,
+    name: 'John Brown',
+    profilePicture: process.env.PUBLIC_URL + '/images/jonn.jpg',
+    description: 'Church: This is a sample - Career: Sample Profession.'
   }
-
-
 
 
 ];
