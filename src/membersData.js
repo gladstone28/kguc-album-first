@@ -86,7 +86,7 @@ const members = [
   },
 {
     id: 15,
-    name: 'Garwell Bacchas',
+    name: 'Rev. Garwell Bacchas',
     profilePicture: process.env.PUBLIC_URL + '/images/garwell.jpg',
     description: 'Church: Minister, Chairman of the Board - Career: Ordained Minister.'
   }
