@@ -39,7 +39,7 @@ const members = [
     name: 'John Brown',
     profilePicture: process.env.PUBLIC_URL + '/images/john.jpg',
     description: 'Businessman and member of the community outreach team.',
-    skills: ['Businessman', 'Community Outreach', 'Usher']
+    skills: ['Businessman', 'Community Outreach', 'Mens Fellowship']
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const members = [
     name: 'Mikhail Reid',
     profilePicture: process.env.PUBLIC_URL + '/images/mikhail.jpg',
     description: 'Youth Leader, member of the Technical Team, Keyboard Player and member of the community outreach team.',
-    skills: ['Chemical Engineer', 'Community Outreach', 'Technical Team', 'Young Adult Movement', 'Choir Member']
+    skills: ['Chemical Engineer', 'Mens Fellowship', 'Technical Team', 'Young Adult Movement', 'Choir Member']
   },
   {
     id: 9,
@@ -82,7 +82,47 @@ const members = [
     profilePicture: process.env.PUBLIC_URL + '/images/jahmai.jpg',
     description: 'Usher and member of the community outreach team.',
     skills: ['Businesswoman', 'Community Outreach', 'Young Adult Movement', 'Choir Member']
+  },
+ {
+    id: 13,
+    name: 'Shenique Soares',
+    profilePicture: process.env.PUBLIC_URL + '/images/shenique.jpg',
+    description: 'Praise Team, Choir, Young Adult and member of the community outreach team.',
+    skills: ['Community Outreach', 'Young Adult Movement', 'Choir Member']
+  },
+ {
+    id: 14,
+    name: 'Norma McNeil',
+    profilePicture: process.env.PUBLIC_URL + '/images/norma.jpg',
+    description: 'Womens Fellowship, Sunday School Teacher.',
+    skills: ['Womens Fellowship', 'Community Outreach', 'Sunday School Teacher']
+  },
+ {
+    id: 15,
+    name: 'Jenny Brown',
+    profilePicture: process.env.PUBLIC_URL + '/images/jenny.jpg',
+    description: 'Womens Fellowship, Sunday School Teacher.',
+    skills: ['Womens Fellowship', 'Community Outreach', 'Sunday School Teacher']
+  },
+ {
+    id: 16,
+    name: 'Verley McDonald',
+    profilePicture: process.env.PUBLIC_URL + '/images/verley.jpg',
+    description: 'Womens Fellowship, Sunday School Teacher.',
+    skills: ['Womens Fellowship', 'Community Outreach', 'Sunday School Teacher']
+  },
+ {
+    id: 17,
+    name: 'Audrey Campbell',
+    profilePicture: process.env.PUBLIC_URL + '/images/audrey.jpg',
+    description: 'Womens Fellowship, Sunday School Teacher.',
+    skills: ['Womens Fellowship', 'Community Outreach', 'Sunday School Teacher']
   }
+
+
+
+
+
 
 
 

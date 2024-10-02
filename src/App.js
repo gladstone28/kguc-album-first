@@ -23,7 +23,11 @@ const skills = [
   'Entrepreneur',
   'Businesswoman',
   'Businessman',
-  'Usher'
+  'Usher',
+  'Womens Fellowship',
+  'Mens Fellowship',
+  'Lawyer',
+  'Teacher'
 ];
 
 
