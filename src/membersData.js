@@ -11,7 +11,7 @@ const members = [
     name: 'Jane Smith',
     profilePicture: process.env.PUBLIC_URL + '/images/jane.jpg',
     description: 'Sunday School teacher and coordinator of community outreach programs.',
-    skills: ['Sunday School Teacher','Esther House', 'Community Outreach', 'Usher']
+    skills: ['Sunday School Teacher','Esther House', 'Community Outreach', 'Lawyer']
   },
   {
     id: 3,
