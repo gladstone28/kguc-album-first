@@ -32,7 +32,7 @@ const members = [
     name: 'Jeaneth Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/jeaneth.jpg',
     description: 'Choir Member and Deputy Board Chairman.',
-    skills: ['Choir Member', 'Quality Manager']
+    skills: ['Choir Member','Esther House', 'Quality Manager']
   },
   {
     id: 6,
@@ -80,8 +80,8 @@ const members = [
     id: 12,
     name: 'Jahmai Paul',
     profilePicture: process.env.PUBLIC_URL + '/images/jahmai.jpg',
-    description: 'Usher and member of the community outreach team.',
-    skills: ['Businesswoman', 'Community Outreach','Daniel House', 'Young Adult Movement', 'Choir Member']
+    description: 'Planning Committee, Praise and Worship and member of the community outreach team.',
+    skills: ['Businesswoman','Planning Committee', 'Community Outreach','Daniel House', 'Young Adult Movement', 'Choir Member']
   },
  {
     id: 13,
