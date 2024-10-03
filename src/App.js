@@ -27,7 +27,11 @@ const skills = [
   'Womens Fellowship',
   'Mens Fellowship',
   'Lawyer',
-  'Teacher'
+  'Teacher',
+  'Daniel House',
+  'Esther House',
+  'Matthew House',
+  'Ruth House'
 ];
 
 
