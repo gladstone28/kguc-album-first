@@ -27,7 +27,7 @@ const skills = [
   'Business Manager',
   'Usher',
   'Evangelism Committee',
-  'Christian Ecducation Committee',
+  'Christian Education Committee',
   'Womens Fellowship',
   'Mens Fellowship',
   'F&S Committee',

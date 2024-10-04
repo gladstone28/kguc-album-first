@@ -32,7 +32,7 @@ const members = [
     name: 'Jeaneth Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/jeaneth.jpg',
     description: 'Choir Member and Deputy Board Chairman.',
-    skills: ['Choir Member','Esther House','Womens Fellowship', 'Quality Manager']
+    skills: ['Choir Member','Christian Education Committee','Esther House','Womens Fellowship', 'Quality Manager']
   },
   {
     id: 6,
@@ -194,6 +194,27 @@ const members = [
     profilePicture: process.env.PUBLIC_URL + '/images/shernett.jpg',
     description: 'Chairperson for the Womens Fellowship, Sunday School Teacher.',
     skills: ['Womens Fellowship','Ruth House', 'Community Outreach', 'Usher']
+  },
+{
+    id: 29,
+    name: 'Anissea Bremmer',
+    profilePicture: process.env.PUBLIC_URL + '/images/annie.jpg',
+    description: 'Youth Leader and Human Resource Professional.',
+    skills: ['Womens Fellowship','Matthew House', 'Community Outreach', 'Christian Education Committee']
+  },
+{
+    id: 30,
+    name: 'Sean Mesquita',
+    profilePicture: process.env.PUBLIC_URL + '/images/sean.jpg',
+    description: 'Chairperson for Ruth House, Chair of Multi-media, Youth Leader, Choir, Keyboard, Drums.',
+    skills: ['Mens Fellowship','Ruth House','Choir Member', 'Community Outreach', 'Young Adult Movement']
+  },
+{
+    id: 31,
+    name: 'Rubie Edwards',
+    profilePicture: process.env.PUBLIC_URL + '/images/rubie.jpg',
+    description: 'Womens Fellowship, Steel Pan, Sunday School Teacher.',
+    skills: ['Womens Fellowship','Ruth House', 'Community Outreach', 'Business Manager']
   }
 
 
