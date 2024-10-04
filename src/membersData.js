@@ -151,8 +151,51 @@ const members = [
     name: 'Melissa McNeil-Barret',
     profilePicture: process.env.PUBLIC_URL + '/images/melissa.jpg',
     description: 'Womens Fellowship, Sunday School Teacher.',
+    skills: ['Womens Fellowship','Ruth House', 'Community Outreach', 'Teacher']
+  },
+{
+    id: 23,
+    name: 'Carolyn Downer',
+    profilePicture: process.env.PUBLIC_URL + '/images/carolyn.jpg',
+    description: 'Womens Fellowship, Chair of Esther House, Sunday School Teacher.',
+    skills: ['Womens Fellowship','Esther House', 'Community Outreach', 'Usher']
+  },
+{
+    id: 24,
+    name: 'Marva Chambers',
+    profilePicture: process.env.PUBLIC_URL + '/images/marva.jpg',
+    description: 'Womens Fellowship, Sunday School Teacher.',
+    skills: ['Womens Fellowship','Banker','Ruth House', 'Community Outreach', 'F&S Committee']
+  },
+{
+    id: 25,
+    name: 'Lisa Rhooms',
+    profilePicture: process.env.PUBLIC_URL + '/images/lisa.jpg',
+    description: 'Young adult Movement, Lawyer.',
+    skills: ['Young Adult Movement','Ruth House', 'Community Outreach', 'Lawyer']
+  },
+{
+    id: 26,
+    name: 'Kathryn Downer',
+    profilePicture: process.env.PUBLIC_URL + '/images/kathryn.jpg',
+    description: 'Young Adult and Youth leader, Medical Doctor.',
+    skills: ['Young Adult Movement','Ruth House', 'Community Outreach', 'Medical Doctor']
+  },
+{
+    id: 27,
+    name: 'Veronica Reid',
+    profilePicture: process.env.PUBLIC_URL + '/images/veronica.jpg',
+    description: 'Womens Fellowship, Sunday School Teacher.',
+    skills: ['Womens Fellowship','Matthew House', 'Community Outreach', 'Business Manager']
+  },
+{
+    id: 28,
+    name: 'Shernett Smith',
+    profilePicture: process.env.PUBLIC_URL + '/images/shernett.jpg',
+    description: 'Chairperson for the Womens Fellowship, Sunday School Teacher.',
     skills: ['Womens Fellowship','Ruth House', 'Community Outreach', 'Usher']
   }
+
 
 
 ];
