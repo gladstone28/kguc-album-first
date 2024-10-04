@@ -25,7 +25,7 @@ const members = [
     name: 'Alaina Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/alaina.jpg',
     description: 'Young Adult Co-ordinator, Technical Team member and Engineer.',
-    skills: ['Engineer', 'Young Adult Movement','Daniel House','Evangelism Committee', 'Technical Team', 'Youth Leader']
+    skills: ['Engineer', 'Young Adult Movement','Daniel House','Technical Team','Evangelism Committee', 'Technical Team', 'Youth Leader']
   },
   {
     id: 5,
@@ -200,14 +200,14 @@ const members = [
     name: 'Anissea Bremmer',
     profilePicture: process.env.PUBLIC_URL + '/images/annie.jpg',
     description: 'Youth Leader and Human Resource Professional.',
-    skills: ['Womens Fellowship','Matthew House', 'Community Outreach', 'Christian Education Committee']
+    skills: ['Womens Fellowship','Matthew House','Technical Team', 'Community Outreach', 'Christian Education Committee']
   },
 {
     id: 30,
     name: 'Sean Mesquita',
     profilePicture: process.env.PUBLIC_URL + '/images/sean.jpg',
     description: 'Chairperson for Ruth House, Chair of Multi-media, Youth Leader, Choir, Keyboard, Drums.',
-    skills: ['Mens Fellowship','Ruth House','Choir Member', 'Community Outreach', 'Young Adult Movement']
+    skills: ['Mens Fellowship','Ruth House','Technical Team','Choir Member', 'Community Outreach', 'Young Adult Movement']
   },
 {
     id: 31,
