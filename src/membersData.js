@@ -4,21 +4,21 @@ const members = [
     name: 'Natalya Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/natalya.jpg',
     description: 'Founding member of the original Powerpoint team.',
-    skills: ['Medical Doctor','Ruth House', 'Technical Team']
+    skills: ['Medical Doctor','Matthew House', 'Technical Team']
   },
   {
     id: 2,
     name: 'Jane Smith',
     profilePicture: process.env.PUBLIC_URL + '/images/jane.jpg',
-    description: 'Sunday School teacher and coordinator of community outreach programs.',
-    skills: ['Sunday School Teacher','Esther House', 'Community Outreach', 'Lawyer']
+    description: 'Medical Doctor, Teacher, coordinator of community outreach programs.',
+    skills: ['Medcal Doctor','Teacher', 'Community Outreach', 'Ruth House']
   },
   {
     id: 3,
     name: 'Gladstone Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/gladstone.jpg',
     description: 'Secretary for the Planning Committee and member of the Technical Team',
-    skills: ['Planning Committee', 'Technical Team','Daniel House', 'Entrepreneur']
+    skills: ['Planning Committee', 'Technical Team','Daniel House', 'Teacher']
   },
   {
     id: 4,
@@ -32,21 +32,21 @@ const members = [
     name: 'Jeaneth Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/jeaneth.jpg',
     description: 'Choir Member and Deputy Board Chairman.',
-    skills: ['Choir Member','Esther House', 'Quality Manager']
+    skills: ['Choir Member','Esther House','Womens Fellowship', 'Quality Manager']
   },
   {
     id: 6,
     name: 'John Brown',
     profilePicture: process.env.PUBLIC_URL + '/images/john.jpg',
-    description: 'Businessman and member of the community outreach team.',
-    skills: ['Businessman', 'Community Outreach','Esther House', 'Mens Fellowship']
+    description: 'Businessman, Financier and member of the community outreach team.',
+    skills: ['Businessman','Dentist','Entrepreneur', 'F&S Committee','Esther House', 'Mens Fellowship']
   },
   {
     id: 7,
     name: 'Nadia Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/nadia.jpg',
     description: 'Senior member and member of the community outreach team.',
-    skills: ['Medical Doctor', 'Community Outreach','Matthew House', 'Usher']
+    skills: ['Medical Doctor', 'Community Outreach','Ruth House', 'Teacher']
   },
   {
     id: 8,
@@ -60,14 +60,14 @@ const members = [
     name: 'Glodine Anderson',
     profilePicture: process.env.PUBLIC_URL + '/images/glodine.jpg',
     description: 'Choir member, Pharmacist and member of the community outreach team.',
-    skills: ['Pharmacist', 'Community Outreach','Daniel House', 'Choir Member']
+    skills: ['Pharmacist', 'Community Outreach','Daniel House','Young Adult Movement', 'Choir Member']
   },
   {
     id: 10,
     name: 'Rev Garwell Bacchas',
     profilePicture: process.env.PUBLIC_URL + '/images/garwell.jpg',
     description: 'Chairman of the Board of Elders, Ordained Minister of Religion.',
-    skills: ['Minister', 'Community Outreach', 'Planning Committee']
+    skills: ['Minister', 'Community Outreach','Mens Fellowship', 'Planning Committee']
   },
   {
     id: 11,
@@ -137,7 +137,7 @@ const members = [
     name: 'BJ Soares',
     profilePicture: process.env.PUBLIC_URL + '/images/bj.jpg',
     description: 'Mens Fellowship,Keyboard, Drums.',
-    skills: ['Mens Fellowship','Daniel House', 'Community Outreach', 'Choir Member']
+    skills: ['Mens Fellowship','Daniel House', 'Community Outreach', 'Usher']
   },
 {
     id: 21,
