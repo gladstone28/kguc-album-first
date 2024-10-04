@@ -25,7 +25,7 @@ const members = [
     name: 'Alaina Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/alaina.jpg',
     description: 'Young Adult Co-ordinator, Technical Team member and Engineer.',
-    skills: ['Engineer', 'Young Adult Movement','Daniel House', 'Technical Team', 'Youth Leader']
+    skills: ['Engineer', 'Young Adult Movement','Daniel House','Evangelism Committee', 'Technical Team', 'Youth Leader']
   },
   {
     id: 5,
@@ -101,8 +101,8 @@ const members = [
     id: 15,
     name: 'Jenny Brown',
     profilePicture: process.env.PUBLIC_URL + '/images/jenny.jpg',
-    description: 'Womens Fellowship, Sunday School Teacher.',
-    skills: ['Womens Fellowship','Daniel House', 'Community Outreach', 'Sunday School Teacher']
+    description: 'Womens Fellowship and Evangelism Committee.',
+    skills: ['Womens Fellowship','Daniel House', 'Community Outreach', 'Evangelism Committee']
   },
  {
     id: 16,
